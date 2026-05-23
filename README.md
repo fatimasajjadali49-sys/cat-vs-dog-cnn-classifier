@@ -33,5 +33,3 @@ The model is built using TensorFlow/Keras and trained on the Cats vs Dogs datase
 - Strong generalization using transfer learning
 
 ---
-
-##  Project Structure
